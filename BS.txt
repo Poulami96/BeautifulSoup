@@ -1,0 +1,1653 @@
+The language for building web pagesThe language for styling web pagesThe language for styling web pagesThe language for programming web pagesA language for accessing databasesA language for accessing databasesHTML ExercisesCSS ExercisesJS ExercisesJavaScript ExercisesSQLPHPPythonjQueryJavaBROWSE TEMPLATESLEARN HOW TOGet Certified »
+ W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of
+ all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.
+Copyright 1999-2019 by Refsnes Data. All Rights Reserved.HTML is the standard markup language for Web pages.With HTML you can create your own Website.HTML is easy to learn - You will enjoy it!This HTML tutorial contains hundreds of HTML examples.With our online HTML editor, you can edit the HTML, and click on a button to 
+view the result.Click on the "Try it Yourself" button to see how it works.Start learning HTML now!At the end of this HTML tutorial, you will find more than 200 examples.With our online editor, you can edit and test each example yourself.Go to HTML Examples!This HTML tutorial also contains nearly 100 HTML exercises.Add a "tooltip" to the paragraph below with the text "About W3Schools".Start the ExerciseTest your HTML skills with our HTML Quiz!Start HTML Quiz!At W3Schools you will find complete references about tags,  
+attributes, events, color names, entities, character-sets, URL encoding, 
+language codes, HTTP messages, and more.HTML Tag ReferenceThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.CSS is a language that describes the style of an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced.This CSS tutorial contains hundreds of CSS examples.With our online editor, you can edit the CSS, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Start learning CSS now!Learn from over 300 examples! With our editor, you can edit the CSS, and click on a
+button to view the result.Go to CSS Examples!We have created some responsive W3.CSS templates for you to use.You are free to modify, save, share, and use them in all your projects.Free CSS Templates!Test your CSS skills at W3Schools!Start CSS Exercises!Start CSS Quiz!At W3Schools you will find complete CSS references of all properties and selectors with syntax, examples, browser support, and more.CSS Properties ReferenceCSS Selectors ReferenceCSS Functions ReferenceCSS Animatable ReferenceCSS Aural ReferenceCSS UnitsCSS Color ReferenceCSS Default ValuesCSS Browser SupportThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.JavaScript is the programming language of HTML and the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced.With our "Try it Yourself" editor, you can change all examples and view 
+the results.
+Try it Yourself »
+We recommend reading this tutorial, in the sequence listed in the left menu.Examples are better than 1000 words. Examples are often easier to understand 
+than text explanations.This tutorial supplements all explanations with clarifying "Try it Yourself" examples.JavaScript ExamplesIf you try all the examples, you will learn a lot about JavaScript, in a very short time!JavaScript is one of the 3 languages all web developers 
+must 
+learn:   1. HTML to define the content of web pages   2. CSS to specify the layout of web pages   3. JavaScript to program the behavior of web pages Web pages are not the only place where JavaScript is used.
+Many desktop and server programs use JavaScript. Node.js is the best known. 
+Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.JavaScript and Java are completely different languages, both in concept 
+and design.JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard  
+in 1997.ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+You can read more about the different JavaScript versions in the chapter 
+JS Versions.In this tutorial, the learning speed is your choice.Everything is up to you.If you are struggling, take a break, or reread the material.Always make sure you understand all the "Try-it-Yourself" 
+examples.W3Schools maintains a complete JavaScript reference, including all HTML and browser objects.The reference contains examples for all properties, methods and events, and 
+is continuously updated according to the latest web standards.Complete JavaScript ReferenceCreate a variable called carName and assign the value Volvo to it.Start the ExerciseTest your JavaScript skills at W3Schools!Start JavaScript Quiz!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.SQL is a standard language for storing, manipulating and retrieving data 
+in databases.Our SQL tutorial will teach you how to use SQL in:
+MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.With our online SQL editor, you can edit the SQL statements, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Start learning SQL now!Insert the missing statement to get all the columns from the Customers table.Start the ExerciseLearn by examples! This tutorial supplements all explanations with clarifying examples.See All SQL ExamplesTest your SQL skills at W3Schools!Start SQL Quiz!At W3Schools you will find a complete reference for keywords and function:SQL Keyword ReferenceMYSQL FunctionsSQLServer FunctionsMS Access FunctionsSQL Quick ReferenceData types and ranges for Microsoft Access, MySQL and SQL Server.SQL Data TypesThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.Our "Show PHP" tool makes it easy to learn PHP, it shows both the 
+PHP source 
+code and the HTML output of the code.Click on the "Run example" button to see how it works.PHP 7 is the newest version of PHP.PHP 7 is much faster than the previous popular stable release!PHP 7 has improved Error Handling, supports stricter Type Declarations and supports new operators, methods and properties.Insert the missing part of the code below to output "Hello World".Learn by examples! This tutorial supplements all explanations with clarifying examples.Go to PHP Examples!At W3Schools you will find complete references of all PHP functions:Array functionsCalendar functionsDate functionsDirectory functionsError functionsFilesystem functionsFilter functionsFTP functionsHTTP functionsLibXML functionsMail functionsMath functionsMisc functionsMySQLi functionsSimpleXML functionsString functionsXML Parser functionsZip functionsTest your PHP skills at W3Schools!Start PHP Quiz!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Bootstrap is a free CSS framework. Bootstrap 3 is the most stable version of Bootstrap, and it is still supported by the team for critical bugfixes and documentation changes.Bootstrap 4 is the newest version of Bootstrap; with new components, faster stylesheet and more responsiveness. However, Internet Explorer 9 and down is not supported.Code snippets for HTML, CSS and JavaScript.Learn How To »Learn How To »Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Learn How To »Learn How To »Learn How To »Learn How To »Learn How To »Open ModalHello World!Modals are awesome!Go Back To W3 How TO ExamplesModal FooterLearn How To »Learn How To »Learn How To »Learn How To »Learn How To »London is the capital city of England.Paris is the capital of France.Tokyo is the capital of Japan.Learn How To »Learn How To »Learn How To »Learn How To »Learn How To »Learn How To »Resize the browser window to see the effect:Learn How To »Learn How To »Learn How To »Learn How To »
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Python is a programming language.Python can be used on a server to create web applications.Our "Show Python" tool makes it easy to learn Python, it shows both the 
+code and the result.Click on the "Run example" button to see how it works.In our File Handling section you will learn how to open, read, write, and 
+delete files.Python File HandlingIn our database section you will learn how to access and work with MySQL and MongoDB databases:Python MySQL TutorialPython MongoDB TutorialInsert the missing part of the code below to output "Hello World".Start the ExerciseLearn by examples! This tutorial supplements all explanations with clarifying examples.See All Python ExamplesLearn by taking a quiz! This quiz will give you a signal of how much you know, or do not know, about Python.Python QuizYou will also find complete function and method references:Reference OverviewBuilt-in FunctionsString MethodsList/Array MethodsDictionary MethodsTuple MethodsSet MethodsFile MethodsPython KeywordsDownload Python from the official Python web site:
+  https://python.orgThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Equality for all browsers: Chrome. Firefox Edge. IE. Safari. Opera.Equality for all devices: Desktop. Laptop. Tablet. Mobile.Standard CSS only (No jQuery or JavaScript library).W3.CSS is a modern CSS framework with built-in responsiveness.
+It supports responsive mobile first design by default,
+and it is smaller and faster than similar CSS frameworks.W3.CSS can also speed up and simplify web development because it is 
+easier to learn, and easier to use than other CSS frameworks:"Make it as simple as possible, but not simpler."
+Albert EinsteinW3.CSS is free to use. No license is necessary.To use W3.CSS in your web site, just add a link to "w3.css" from your web 
+pages:Or download w3.css from w3css_downloads and 
+add a link to w3.css:We have created some responsive W3CSS templates for you to use.You are free to modify, save, share, use or do whatever you want with them:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.jQuery is a JavaScript Library.jQuery greatly simplifies JavaScript programming.jQuery is easy to learn.With our online editor, you can edit the code, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Use the correct selector to hide all <p> elements.Start the ExerciseLearn by examples! At W3Schools you will find a lot of jQuery examples to edit and test yourself.Test your jQuery skills at W3Schools!At W3Schools you will find a complete reference of all jQuery selectors, methods, properties and events.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XML stands for eXtensible Markup Language.XML was designed to store and transport data.XML was designed to be both human- and machine-readable.
+Display the XML File »
+Display the XML File as a Note »
+
+Display the XML File »
+Display with XSLT »
+XML plays an important role in many different IT systems.XML is often used for distributing data over the Internet.It is important (for all types of software developers!) to have a good understanding of XML.This tutorial will give you a solid understanding of XML:This tutorial will also dig deep into the following important XML standards:We recommend reading this tutorial, in the sequence listed in the left menu.Examples are better than 1000 words. Examples are often easier to understand 
+than text explanations.This tutorial supplements all explanations with clarifying "Try it Yourself" examples.If you try all the examples, you will learn a lot about XML in a very short time!Test your XML skills at W3Schools!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+
+					
+					Forgot your password?
+Discuss W3Schools.comHow can we improve W3Schools.comOffer constructive criticism on web sites posted by members here.Issues related to building and deploying HTML/XHTML.Cascading Style Sheets related issues.Issues related to building and deploying JavaScript.Issues related to building and deploying VBScriptIssues related to installing and configuring web servers, htaccess, mod_rewrite, etc.Discussions related to the implementation and management of version control technologies and methodologies.Issues related to SQLIssues related to building and deploying Active Server Pages.Issues related to building and deploying PHP.Issues related to building and deploying .NET.Issues related to building and deploying ColdFusion.Issues related to building and deploying Java Server Pages.Issues related to building and deploying Common Gateway Interface scripts.Issues related to building and deploying XML.Issues related to building and deploying XSLT(eXtensible Stylesheet Language Transformations) and/or XSL-FO.Issues related to building and deploying XML Schema.Issues related to building and deploying SOAP/REST/XML-RPC/etc. Web ServicesIssues related to building and deploying multimedia for the web.Issues related to building and deploying FLASH.
+
+Powered by Invision Community
+HTML is the standard markup language for Web pages.With HTML you can create your own Website.HTML is easy to learn - You will enjoy it!This HTML tutorial contains hundreds of HTML examples.With our online HTML editor, you can edit the HTML, and click on a button to 
+view the result.Click on the "Try it Yourself" button to see how it works.Start learning HTML now!At the end of this HTML tutorial, you will find more than 200 examples.With our online editor, you can edit and test each example yourself.Go to HTML Examples!This HTML tutorial also contains nearly 100 HTML exercises.Add a "tooltip" to the paragraph below with the text "About W3Schools".Start the ExerciseTest your HTML skills with our HTML Quiz!Start HTML Quiz!At W3Schools you will find complete references about tags,  
+attributes, events, color names, entities, character-sets, URL encoding, 
+language codes, HTTP messages, and more.HTML Tag ReferenceThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.CSS is a language that describes the style of an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced.This CSS tutorial contains hundreds of CSS examples.With our online editor, you can edit the CSS, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Start learning CSS now!Learn from over 300 examples! With our editor, you can edit the CSS, and click on a
+button to view the result.Go to CSS Examples!We have created some responsive W3.CSS templates for you to use.You are free to modify, save, share, and use them in all your projects.Free CSS Templates!Test your CSS skills at W3Schools!Start CSS Exercises!Start CSS Quiz!At W3Schools you will find complete CSS references of all properties and selectors with syntax, examples, browser support, and more.CSS Properties ReferenceCSS Selectors ReferenceCSS Functions ReferenceCSS Animatable ReferenceCSS Aural ReferenceCSS UnitsCSS Color ReferenceCSS Default ValuesCSS Browser SupportThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Bootstrap is a free CSS framework. Bootstrap 3 is the most stable version of Bootstrap, and it is still supported by the team for critical bugfixes and documentation changes.Bootstrap 4 is the newest version of Bootstrap; with new components, faster stylesheet and more responsiveness. However, Internet Explorer 9 and down is not supported.Equality for all browsers: Chrome. Firefox Edge. IE. Safari. Opera.Equality for all devices: Desktop. Laptop. Tablet. Mobile.Standard CSS only (No jQuery or JavaScript library).W3.CSS is a modern CSS framework with built-in responsiveness.
+It supports responsive mobile first design by default,
+and it is smaller and faster than similar CSS frameworks.W3.CSS can also speed up and simplify web development because it is 
+easier to learn, and easier to use than other CSS frameworks:"Make it as simple as possible, but not simpler."
+Albert EinsteinW3.CSS is free to use. No license is necessary.To use W3.CSS in your web site, just add a link to "w3.css" from your web 
+pages:Or download w3.css from w3css_downloads and 
+add a link to w3.css:We have created some responsive W3CSS templates for you to use.You are free to modify, save, share, use or do whatever you want with them:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Colors are displayed combining RED, GREEN, and BLUE light.With CSS, colors can be set by using color names:With CSS, colors can be specified in different ways:RGB color values are supported in all browsers.An RGB color value is specified with: rgb(
+RED ,
+GREEN ,
+BLUE ).Each parameter defines the intensity of the color as an integer between 0 and 255.For example, rgb(0,0,255) is rendered as blue, 
+because the blue parameter is set to its highest value (255) and the others are set to 0.Shades of gray are often defined using equal values for all the 3 light sources:Hexadecimal color values are also supported in all browsers.A hexadecimal color is specified with:
+#RRGGBB.RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and 
+FF specifying the intensity of the color.For example, #0000FF is displayed as blue, because the blue component is set to its highest value (FF) and the others are set to 
+00.Shades of gray are often defined using equal values for all the 3 light sources:You can use upper case or lower case letters to specify hexadecimal values.
+Lower case are easier to write. Upper case are easier to read.CSS supports 140 standard color names.In the next chapter you will find a complete alphabetical list of color names 
+with hexadecimal values:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.To insert an icon, add the name of the icon class to any inline HTML element.The <i> and <span> elements are widely used to add 
+icons.All the icons in the icon libraries below, are scalable vector icons that can 
+be customized with CSS (size, color, shadow, etc.)To use the Free Font Awesome 5 icons, add the following line inside the <head> section of your HTML page:Note: No downloading or installation is required!To use the Font Awesome 4 icons, add the following line inside the <head> section of your HTML page:Note: No downloading or installation is required!To use the Bootstrap 3 glyphicons, add the following line inside the <head> section of your HTML page:Note: No downloading or installation is required!Note: Glyphicons are not supported in Bootstrap 4.For more information about Bootstrap 3 and Glyphicons, visit our Bootstrap 3 Tutorial.To use the Google icons, add the following line inside the <head> section of your HTML page:Note: No downloading or installation is required!For a complete list of ALL icons (font awesome, bootstrap and google), visit the
+Icon Reference.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Google Maps lets you embed maps in HTML.The HTML <svg> element allows vector based graphics in HTML:The HTML <canvas> element can be used to draw graphics on a web page:The graphic below is created with <canvas>:It shows four elements: a red rectangle, a gradient rectangle,
+a multicolor rectangle, and a multicolor text.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.SVG stands for Scalable Vector Graphics.SVG defines vector-based graphics in XML format.With our "Try it Yourself" editor, you can edit the SVG, and click on a button to view the result.Before you continue, you should have some basic understanding of the following:If you want to study these subjects first, find the tutorials on our
+Home page.SVG 1.0 became a W3C Recommendation on 4 September 2001.SVG 1.1 became a W3C Recommendation on 14 January 2003.SVG 1.1 (Second Edition) became a W3C Recommendation on 16 August 2011.Advantages of using SVG over other image formats (like JPEG 
+and GIF) are:The main competitor to SVG is Flash.The biggest advantage SVG has over Flash is the compliance with other standards 
+(e.g. XSL and the DOM). Flash relies on proprietary technology that is not open source.SVG images can be created with any text editor, but 
+it is often more convenient to create SVG images with a drawing program, like
+Inkscape.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The HTML <canvas> element is used to draw graphics on a web page.The graphic above is created with <canvas>.It shows four elements: a red rectangle, a gradient rectangle,
+a multicolor rectangle, and a multicolor text.The HTML <canvas> element is used to draw graphics, on the fly, via scripting (usually JavaScript).The <canvas> element is only a container for graphics. You must use a script to actually draw the graphics.Canvas has several methods for drawing paths, boxes, circles, text, and adding images.The numbers in the table specify the first browser version that fully supports the 
+<canvas> element.Canvas can draw colorful text, with or without animation. Canvas has great features for graphical data presentation with an imagery of 
+graphs and charts. Canvas objects can move. Everything is possible: from simple bouncing balls 
+to complex animations.Canvas can respond to 
+JavaScript events.Canvas can respond to any user action (key clicks, mouse 
+clicks, button clicks, finger movement).Canvas' methods for animations, offer a lot of possibilities for HTML gaming 
+applications.In HTML, a <canvas> element looks like this:The <canvas> element must have an id attribute so it can be referred to by JavaScript.The width and height attribute is necessary to define the size of the canvas.Tip: You can have multiple <canvas> elements on one HTML page.By default, the <canvas> element has no border and no content.To add a border, use a style attribute:The next chapters show how to draw on the canvas.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Code snippets for HTML, CSS and JavaScript.Learn How To »Learn How To »Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Learn How To »Learn How To »Learn How To »Learn How To »Learn How To »Open ModalHello World!Modals are awesome!Go Back To W3 How TO ExamplesModal FooterLearn How To »Learn How To »Learn How To »Learn How To »Learn How To »London is the capital city of England.Paris is the capital of France.Tokyo is the capital of Japan.Learn How To »Learn How To »Learn How To »Learn How To »Learn How To »Learn How To »Resize the browser window to see the effect:Learn How To »Learn How To »Learn How To »Learn How To »
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Sass is a CSS pre-processor.Sass reduces repetition of CSS and therefore saves time.
+Run Example »
+Start learning Sass now!At W3Schools you will find complete references of all Sass functions with syntax and examples.Sass String FunctionsSass Numeric FunctionsSass List FunctionsSass Map FunctionsSass Selector FunctionsSass Introspection FunctionsSass Color Functions
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XML stands for eXtensible Markup Language.XML was designed to store and transport data.XML was designed to be both human- and machine-readable.
+Display the XML File »
+Display the XML File as a Note »
+
+Display the XML File »
+Display with XSLT »
+XML plays an important role in many different IT systems.XML is often used for distributing data over the Internet.It is important (for all types of software developers!) to have a good understanding of XML.This tutorial will give you a solid understanding of XML:This tutorial will also dig deep into the following important XML standards:We recommend reading this tutorial, in the sequence listed in the left menu.Examples are better than 1000 words. Examples are often easier to understand 
+than text explanations.This tutorial supplements all explanations with clarifying "Try it Yourself" examples.If you try all the examples, you will learn a lot about XML in a very short time!Test your XML skills at W3Schools!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.AJAX is a developer's dream, because you can:In every chapter, you can edit the examples online, and click on a button to 
+view the result. 
+Try it Yourself »
+The HTML page contains a <div> section and a <button>.The <div> 
+section is used to display information from a server.The <button> calls a function (if it is clicked).The function requests data from a web 
+server and displays it:AJAX = Asynchronous JavaScript And
+XML.AJAX is not a programming language.AJAX just uses a combination of:AJAX is a misleading name. AJAX applications might use XML to transport data,
+but it is equally common to transport data as plain text or JSON text.AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes.
+This means that it is possible to update parts of a web page, without reloading the whole page.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The DOM defines a standard for accessing and manipulating documents:"The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the 
+content, structure, and style of a document."The HTML DOM defines a standard way for accessing and manipulating HTML documents. 
+It presents an HTML document as a tree-structure.The XML DOM defines a standard way for accessing and manipulating XML documents. 
+It presents an XML document as a tree-structure.Understanding the DOM is a must for anyone working with HTML or XML.
+All 
+HTML elements can be accessed through the HTML DOM.This example changes the value of an HTML element with id="demo":This example changes the value of the first <h1> element in an HTML document:Note: Even if the HTML document contains 
+only ONE <h1> element you still have to specify the array index [0], 
+because the getElementsByTagName() method always returns an array. 
+You can learn a lot more about the HTML DOM in our 
+JavaScript tutorial.
+All XML elements can be accessed through the XML DOM.The XML DOM is:In other words: The XML DOM is a standard for how to get, change, add, or delete XML elements.This code retrieves the text value of the first <title> element in an 
+XML document:The XML file used in the examples below is books.xml.This example reads "books.xml" into xmlDoc and retrieves the text value of the first <title> element in 
+books.xml:This example loads a text string into an XML DOM object, and  
+extracts the info from it with JavaScript:The DOM models XML as a set of node objects. The nodes can be accessed with 
+JavaScript or other programming languages. In this tutorial we use JavaScript.The programming interface to the DOM is defined by a set standard properties 
+and methods.Properties are often referred to as something that is (i.e. nodename 
+is "book").Methods are often referred to as something that is done (i.e. delete 
+"book").These are some typical DOM properties:Note: In the list above, x is a node object.Note: In the list above, x is a node object.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.A DTD is a Document Type Definition.A DTD defines the structure and the legal elements and attributes of an XML document.With a DTD, independent groups of people can agree on a standard DTD for interchanging data.An application can use a DTD to verify that XML data is valid.If the DTD is declared inside the XML file, it must be wrapped inside the <!DOCTYPE> definition:In the XML file, select "view source" to view the DTD.The DTD above is interpreted like this:If the DTD is declared in an external file, the <!DOCTYPE> definition must 
+contain a reference to the DTD file:And here is the file "note.dtd", which contains the DTD:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.An XML Schema describes the structure of an XML document.The XML Schema language is also referred to as XML Schema Definition (XSD).The purpose of an XML Schema is to define the legal building blocks of an XML
+document:In the XML world, hundreds of standardized XML formats are in daily use. Many of these XML standards are defined by XML Schemas.XML Schema is an XML-based (and more powerful) alternative to DTD.One of the greatest strength of XML Schemas is the support for data types.Another great strength about XML Schemas is that they are written in XML.XML Schemas are extensible, because they are written in XML.With an extensible Schema definition you can:When sending data from a sender to a receiver, it is essential that both parts
+have the same "expectations" about the content.With XML Schemas, the sender can describe the data in a way that the receiver
+will understand.A date like: "03-11-2004" will, in some countries, be interpreted as 3.November
+and in other countries as 11.March.However, an XML element with a data type
+like this:<date type="date">2004-03-11</date>ensures a mutual understanding of the content, because the XML data type "date"
+requires the format "YYYY-MM-DD".A well-formed XML document is a document that conforms to the XML syntax
+rules, like:Even if documents are well-formed they can still contain errors, and those errors can have serious consequences.Think of the following situation: you order 5 gross of laser printers, instead of 5 laser
+printers. With XML Schemas, most of these errors can be caught by your
+validating software.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XSL (eXtensible Stylesheet Language) is a styling language for XML.XSLT stands for XSL Transformations.This tutorial will teach you how to use XSLT to transform XML documents into other formats 
+(like transforming XML into HTML).With our online editor, you can edit XML and XSLT code, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Before you continue you should have a basic understanding of the following:If you want to study these subjects first, find the tutorials on our
+Home page.XSLT ElementsDescription of all the XSLT elements from the W3C Recommendation, and information about browser support.XSLT, XPath, and XQuery FunctionsXSLT 2.0, XPath 2.0, and XQuery 1.0, share the same functions library. There are over 100 built-in functions.
+There are functions for string values, numeric values, date and time comparison, node and QName manipulation, 
+sequence manipulation, and more.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XPath is a major element in the XSLT standard.XPath can be used to navigate through elements and attributes in an XML document.XPath uses path expressions to select nodes or node-sets in an XML document.These path expressions look very much like the path expressions you use with  
+traditional computer file systems:XPath includes over 200 built-in functions.There are functions for string values, numeric values, booleans, date and time comparison, 
+node manipulation, sequence manipulation, and much more.Today XPath expressions can also be used in JavaScript, Java, XML Schema, PHP, Python, 
+C and C++, and lots of other languages.XPath is a major element in the XSLT standard.With XPath knowledge you will be able to take great advantage of your XSLT 
+knowledge.XPath 1.0 became a W3C Recommendation on November 16, 1999.XPath 2.0 became a W3C Recommendation on January 23, 2007.XPath 3.0 became a W3C Recommendation on April 8, 2014.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XQuery is to XML what SQL is to databases.XQuery is designed to query XML data.XQuery is a language for finding and extracting elements and attributes from XML 
+documents.Here is an example of what XQuery could solve:"Select all CD records with a price less than $10 from the CD collection 
+stored in cd_catalog.xml"XQuery 1.0 and XPath 2.0 share the same data model and support the same functions 
+and operators. If you have already studied XPath you will have no problems with 
+understanding XQuery.XQuery can be used to:XQuery is compatible with several W3C standards, such as XML, Namespaces, 
+XSLT, XPath, and XML Schema.XQuery 1.0 became a W3C Recommendation in 2007.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.JavaScript is the programming language of HTML and the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced.With our "Try it Yourself" editor, you can change all examples and view 
+the results.
+Try it Yourself »
+We recommend reading this tutorial, in the sequence listed in the left menu.Examples are better than 1000 words. Examples are often easier to understand 
+than text explanations.This tutorial supplements all explanations with clarifying "Try it Yourself" examples.JavaScript ExamplesIf you try all the examples, you will learn a lot about JavaScript, in a very short time!JavaScript is one of the 3 languages all web developers 
+must 
+learn:   1. HTML to define the content of web pages   2. CSS to specify the layout of web pages   3. JavaScript to program the behavior of web pages Web pages are not the only place where JavaScript is used.
+Many desktop and server programs use JavaScript. Node.js is the best known. 
+Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.JavaScript and Java are completely different languages, both in concept 
+and design.JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard  
+in 1997.ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+You can read more about the different JavaScript versions in the chapter 
+JS Versions.In this tutorial, the learning speed is your choice.Everything is up to you.If you are struggling, take a break, or reread the material.Always make sure you understand all the "Try-it-Yourself" 
+examples.W3Schools maintains a complete JavaScript reference, including all HTML and browser objects.The reference contains examples for all properties, methods and events, and 
+is continuously updated according to the latest web standards.Complete JavaScript ReferenceCreate a variable called carName and assign the value Volvo to it.Start the ExerciseTest your JavaScript skills at W3Schools!Start JavaScript Quiz!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.jQuery is a JavaScript Library.jQuery greatly simplifies JavaScript programming.jQuery is easy to learn.With our online editor, you can edit the code, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Use the correct selector to hide all <p> elements.Start the ExerciseLearn by examples! At W3Schools you will find a lot of jQuery examples to edit and test yourself.Test your jQuery skills at W3Schools!At W3Schools you will find a complete reference of all jQuery selectors, methods, properties and events.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.React is a JavaScript library for building user interfaces.React is used to build single page applications.React allows us to create reusable UI components.Our "Show React" tool makes it easy to demonstrate React, it shows both the code and the result.
+Run 
+Example »
+In order to learn and test React, you should set up a React Environment on 
+your computer.This tutorial uses the create-react-app.The create-react-app is an officially supported way to create React applications.If you have NPM and Node.js installed, you can create a React application by 
+first installing the create-react-app.Install create-react-app by running this command in your terminal:You are now ready to create your first React application!Run this command to create a React application named
+myfirstreact:The create-react-app will set up everything you need to run a React application.Note: This tutorial uses 
+create-react-app to demonstrate React examples. You will not be able to 
+run the same examples on your computer if you do not install the create-react-app 
+environment.If you followed the two commands above, you are ready to run your first real React application!Run this command to move to the myfirstreact directory:Run this command to execute the React application 
+myfirstreact:A new browser window will pop up with your newly created React App! If not, open your browser and type 
+localhost:3000 in the address bar.The result:You will learn more about the create-react-app in the React Get Started chapter.Before starting with React.JS, you should have intermediate experience in:You should also have some experience with the new JavaScript features 
+introduced in ECMAScript 6 (ES6), you will learn about them in the React ES6 chapter.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+AngularJS extends HTML with new attributes.AngularJS is perfect for Single Page Applications (SPAs).AngularJS is easy to learn.Start learning AngularJS now!This tutorial is specially designed to help you learn AngularJS as quickly and efficiently as possible.First, you will learn the basics of AngularJS: directives, expressions, 
+filters, modules, and controllers.Then you will learn everything else you need to know about AngularJS:Events, DOM, Forms, Input, Validation, Http, and more.In every chapter, you can edit the examples online, and click on a button to view the result. Before you study AngularJS, you should have a basic understanding of:AngularJS version 1.0 was released in 2012.Miško Hevery, a Google employee, started to work with AngularJS in 2009.The idea turned out very well, and the project is now officially supported by 
+Google.W3Schools' AngularJS tutorial contains lots of AngularJS examples!AngularJS ExamplesThe AngularJS reference contains all directives and filters used in this tutorial.AngularJS Reference
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.JSON: JavaScript Object Notation.JSON is a syntax for storing and exchanging data.JSON is text, written with JavaScript object notation.When exchanging data between a browser and a server, the data can only be 
+text.JSON is text, and we can convert any JavaScript object into JSON, and send 
+JSON to the server.We can also convert any JSON received from the server into JavaScript 
+objects.This way we can work with the data as JavaScript objects, with no complicated 
+parsing and translations.If you have data stored in a JavaScript object, you can convert the object 
+into JSON, and send it to a server:You will learn more about the JSON.stringify() function later in this tutorial.If you receive data in JSON format, you can convert it into a JavaScript 
+object:You will learn more about the JSON.parse() function later in this tutorial.When storing data, the data has to be a certain format, and regardless of where you choose to store it, 
+text is always one of the legal formats.JSON makes it possible to store JavaScript objects as text.Storing data in local storage*JSON uses JavaScript syntax, but the JSON format is text only.Text can be read and used as a data format by any programming 
+language.The JSON format was originally specified by
+Douglas Crockford.Since the JSON format is text only, it can easily be sent to and from a 
+server, and used as a data format by any programming language.JavaScript has a built in function to convert a string, written in JSON format, into native 
+JavaScript objects:JSON.parse()So, if you receive data from a server, in JSON format, you can use it like 
+any other JavaScript object.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.AJAX is a developer's dream, because you can:
+Try it Yourself »
+The HTML page contains a <div> section and a <button>.The <div> 
+section is used to display information from a server.The <button> calls a function (if it is clicked).The function requests data from a web 
+server and displays it:AJAX = Asynchronous JavaScript And
+XML.AJAX is not a programming language.AJAX just uses a combination of:AJAX is a misleading name. AJAX applications might use XML to transport data,
+but it is equally common to transport data as plain text or JSON text.AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes.
+This means that it is possible to update parts of a web page, without reloading the whole page.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.W3.JS is a JavaScript library designed to simplify web development projects:Easy to learn and easy to use.Designed for fast application development.Designed for all devices: PC, Tablet, and Mobile.Free to use. No licenses.Below is a list of the some of the things W3.JS can do:At the end of the W3.JS tutorial, you can find more than 100 examples.With our online editor, you can edit and test each example yourself.Go to W3.JS Examples!In this tutorial you will also find a complete W3.JS reference about  
+all functions and attributes.W3.JS ReferencesW3.JS is very easy to use.Just add a link to w3.js in your web page:Or download 
+w3.js and add a link to the file:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Python is a programming language.Python can be used on a server to create web applications.Our "Show Python" tool makes it easy to learn Python, it shows both the 
+code and the result.Click on the "Run example" button to see how it works.In our File Handling section you will learn how to open, read, write, and 
+delete files.Python File HandlingIn our database section you will learn how to access and work with MySQL and MongoDB databases:Python MySQL TutorialPython MongoDB TutorialInsert the missing part of the code below to output "Hello World".Start the ExerciseLearn by examples! This tutorial supplements all explanations with clarifying examples.See All Python ExamplesLearn by taking a quiz! This quiz will give you a signal of how much you know, or do not know, about Python.Python QuizYou will also find complete function and method references:Reference OverviewBuilt-in FunctionsString MethodsList/Array MethodsDictionary MethodsTuple MethodsSet MethodsFile MethodsPython KeywordsDownload Python from the official Python web site:
+  https://python.orgThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Java is a programming language.Java is used to develop mobile apps, web apps, desktop apps, games and much 
+more.Our "Show Java" tool makes it easy to learn Java, it shows both the 
+code and the result.Click on the "Run example" button to see how it works.We recommend reading this tutorial, in the sequence listed in the left menu.Java is an object oriented language and some concepts may be new. Take breaks when needed, and go
+over the examples as many times as needed.Insert the missing part of the code below to output "Hello World".Start the ExerciseLearn by examples! This tutorial supplements all explanations with clarifying examples.See All Java ExamplesJava KeywordsJava String MethodsJava Math MethodsDownload Java from the official Java web site:
+https://www.oracle.com
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.C++ is a programming language.C++ is used to create computer programs.Our "Show C++" tool makes it easy to learn C++, it shows both the 
+code and the result.Click on the "Run example" button to see how it works.We recommend reading this tutorial, in the sequence listed in the left menu.C++ is an object oriented language and some concepts may be new. Take breaks when needed, and go
+over the examples as many times as needed.Insert the missing part of the code below to output "Hello World".Start the ExerciseLearn by examples! This tutorial supplements all explanations with clarifying examples.See All C++ Examples
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.SQL is a standard language for storing, manipulating and retrieving data 
+in databases.Our SQL tutorial will teach you how to use SQL in:
+MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.With our online SQL editor, you can edit the SQL statements, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Start learning SQL now!Insert the missing statement to get all the columns from the Customers table.Start the ExerciseLearn by examples! This tutorial supplements all explanations with clarifying examples.See All SQL ExamplesTest your SQL skills at W3Schools!Start SQL Quiz!At W3Schools you will find a complete reference for keywords and function:SQL Keyword ReferenceMYSQL FunctionsSQLServer FunctionsMS Access FunctionsSQL Quick ReferenceData types and ranges for Microsoft Access, MySQL and SQL Server.SQL Data TypesThe perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.Our "Show PHP" tool makes it easy to learn PHP, it shows both the 
+PHP source 
+code and the HTML output of the code.Click on the "Run example" button to see how it works.PHP 7 is the newest version of PHP.PHP 7 is much faster than the previous popular stable release!PHP 7 has improved Error Handling, supports stricter Type Declarations and supports new operators, methods and properties.Insert the missing part of the code below to output "Hello World".Learn by examples! This tutorial supplements all explanations with clarifying examples.Go to PHP Examples!At W3Schools you will find complete references of all PHP functions:Array functionsCalendar functionsDate functionsDirectory functionsError functionsFilesystem functionsFilter functionsFTP functionsHTTP functionsLibXML functionsMail functionsMath functionsMisc functionsMySQLi functionsSimpleXML functionsString functionsXML Parser functionsZip functionsTest your PHP skills at W3Schools!Start PHP Quiz!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.PHP 7 is the latest stable release. This tutorial uses PHP 7.2.10With our online "PHP Tryit" editor, you can edit the PHP code, and click 
+on a button to view the result.Click on the "Try it Yourself" button to see how it works.At W3Schools you will find complete references of all PHP functions:Test your PHP skills at W3Schools!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.ASP stands for Active Server PagesASP is a development framework for building web pages.ASP supports many different development models:ASP and ASP.NET are server side technologies.Both technologies enable computer code to be executed by an Internet server.When a browser requests an ASP or ASP.NET file, the ASP engine reads the file, executes 
+any code in the file, and returns the result to the browser.ASP (aka Classic ASP) was introduced in 1998 
+as Microsoft's first server side scripting language.Classic ASP pages have the file extension .asp and are normally written in VBScript.ASP.NET was released in 2002 as a successor to Classic ASP.ASP.NET pages have the extension .aspx and are normally written in C# (C sharp).ASP.NET 4.6 is the latest official version of ASP.NET.ASP.NET 5 was expected to be an important redesign of ASP.NET.However, the development of ASP.NET 5 was stopped in favor of 
+
+ASP.NET Core. ASP.NET Web Pages is an SPA application model (Single Page Application).The SPA model is quite similar to PHP and Classic ASP.ASP.NET Web Pages is being merged into the new ASP.NET Core.ASP.NET MVC is an MVC application model (Model-View-Controller).ASP.NET MVC is being merged into the new ASP.NET Core.ASP.NET MVC is not covered in this tutorial.
+ASP.NET API is an API application model (Application Programming Interface).ASP.NET API is being merged into the new ASP.NET Core.ASP.NET API is not covered in this tutorial.ASP.NET Web Forms is an event driven application model.ASP.NET Web Forms is not a part of the new ASP.NET Core.ASP.NET Web Forms is not covered in this tutorial.ASP.NET Core was released in 2016.ASP.NET Core merges ASP.NET MVC, ASP.NET Web API, and ASP.NET Web Pages into 
+one application framework.ASP.NET Core is not covered in this tutorial.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Node.js is an open source server environment.Node.js allows you to run JavaScript on the server.Our "Show Node.js" tool makes it easy to learn Node.js, it shows both the 
+code and the result.Click on the "Run example" button to see how it works.In this tutorial there will be some examples that are better explained by displaying the result in the 
+command line interface.When this happens, The "Show Node.js" tool will show the result in a black screen on the right:Click on the "Run example" button to see how it works.Node.js has a set of built-in modules.Built-in ModulesDownload Node.js from the official Node.js web site:
+https://nodejs.org
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Raspberry Pi is a small, multi-use computer.With Node.js you can do amazing things with your Raspberry Pi.The Raspberry Pi is a small, affordable, and amazingly capable, credit card 
+size computer.It is developed by the Raspberry Pi Foundation, and it might be the most 
+versatile tech ever created.Creator Eben Upton's goal was to create a low-cost device that would improve 
+programming skills and hardware understanding.Due to the small size and price of the device, it has become the center of a 
+wide range of projects by tinkerers, makers, and electronics enthusiasts.The Raspberry Pi has a row of GPIO (General Purpose input/output) pins, and 
+these can be used to interact in amazing ways with the real world. This tutorial 
+will focus on how to use these with Node.js.For this tutorial you need a Raspberry Pi. In our examples we use a Raspberry Pi 3, 
+but this tutorial should work for most versions.Hardware needed:For later chapters in this tutorial we will use special sensors or devices 
+that we connect to the Raspberry Pi. We will specify these as special 
+requirements in the relevant chapters.If you already have a Raspberry Pi set up with Raspbian, internet and enabled 
+SSH, you can skip to the step "Install Node.js on Raspberry Pi".Before we can start using our Raspberry Pi for anything, we need to get a OS 
+installed.Raspbian is a free operating system based on Debian Linux, and it is 
+optimized Raspberry Pi.Download the latest Raspbian image from https://www.raspberrypi.org/downloads/raspbian/ 
+to your computer.We use the "LITE" version in our tutorial, since we are setting the Raspberry 
+Pi up as a headless server (we will connect to it through SSH, without having a 
+keyboard/display connected to it). You can use whichever version you want, but 
+this tutorial is written with the "LITE" version as its focus.Insert the MicroSD memory card in your computer (via the SD adapter if 
+needed). 
+Open File Explorer to verify that it is operational.Etcher is a program for flashing images to memory cards. Download and 
+install Etcher from: https://etcher.io/Launch Etcher:Click "Select image" button and find the Raspbian zip file that 
+you downloaded.Click the "Select drive" button and specify the memory card as the target location.Click the "Flash!" button to write the image to the memory card.After Etcher is finished writing the image to the memory card, remove it from your computer.To get the Raspberry Pi ready to boot we need to:When the Raspberry Pi is finished booting up, log in using username: pi and password: raspberryIf you will use a Ethernet cable to connect your Raspberry Pi to the 
+internet, you can skip this step.For this section we will assume you have a Raspberry Pi 3, with built in 
+WiFi.Start by scanning for wireless networks:This will list all of the available WiFi networks. (It also confirms that 
+your WiFi is working)Now we need to open the wpa-supplicant file, to add the network you want to 
+connect to:This will open the file in the Nano editor. Add the following to the bottom 
+of the file (change wifiName and wifiPassword with the actual network name and 
+password):Press "Ctrl+x" to save the code. Confirm with "y", and confirm the name with "Enter".And reboot the Raspberry Pi:After reboot, log in again, and confirm that the WiFi is connected and working:If the WiFi is working propery, the information displayed should include an 
+IP address, similar to this:Write down that IP address, as we will use it to connect to the Raspberry Pi 
+via SSH.Now your Raspberry Pi is connected to the internet, it is time to enable SSH.SSH allows you up use the Raspberry Pi without having a monitor and keyboard 
+connected to it.(You will need a SSH client for this on your non-Raspberry Pi computer. We use 
+PuTTY for windows)Open the Raspberry Pi Software Configuration Tool:You should see a menu like this:Select option 5 Interfacing Options:Select option P2 SSH, to activate SSH:Confirm with YES, to activate SSH:SSH is now enabled, and you should be in the main menu again.Select 1 Change User Password, and follow the instructions to change the password. Choose a secure password, but something you will remember:After you have finished changing the password, you should be back in the main menu.Select 2 Hostname, and follow the instructions to change the hostname:After you have finished changing the hostname, you should be back in the main menu.Now we will close the menu and save the changes:When selecting Finish, you will get the option to reboot. Select Yes to reboot the Raspberry Pi.You can now unplug the monitor and keyboard from the Raspberry Pi, and we can log in using out SSH client.Open PuTTY, type in the IP address for your Raspberry Pi, and click Open:Log in using the username pi and the new password you specified.You should now see a command line like this: (we used w3demopi as our hostname)You are now able to run your Raspberry Pi in "Headless-mode", meaning you do not need a monitor or keyboard. And if you have a WiFi connection, you do not need a ethernet cable either, just the power cable!With the Raspberry Pi properly set up, login in via SSH, and update your Raspberry Pi system packages to their latest versions.Update your system package list:Upgrade all your installed packages to their latest version:Doing this regularly will keep your Raspberry Pi installation up to date.To download and install newest version of Node.js, use the following command:Now install it by running:Check that the installation was successful, and the version number of 
+Node.js with:Now you have a Raspberry Pi with Node.js installed!If you want to learn more about Node.js, follow our tutorial:
+https://www.w3schools.com/nodejs/In the next chapter we will get to know the GPIO and how to use it with 
+Node.js.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.We have created some responsive W3.CSS website templates for you to use.You are free to modify, save, share, and use them in all your projects.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.W3Schools has 50 million monthly visits.From the statistics below (collected since 2002) you can read the long term trends of browser usage.Click on the browser names to see detailed browser information:The pure and simple truth is rarely pure and never simpleOscar WildeW3Schools' statistics may not be relevant to your web site. Different sites 
+attract different audiences. Some web sites attract developers 
+using professional hardware, while other sites attract hobbyists using older  computers.Anyway, data collected from W3Schools' log-files over many years clearly shows the long 
+term trends.Browser's developer tools can be used to inspect, edit and debug HTML, CSS, and JavaScript of the curently-loaded page. To learn more, check out the browser's own manual for developer tools:Chrome DevToolsMicrosoft Edge Developer ToolsFirefox Developer ToolsSafari Web InspectorOpera DevToolsMobile browsers statisticsOperating system statisticsScreen resolution statistics
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+The perfect solution for busy professionals who need to balance work, family, and career building.The HTML Developer Certificate proves fundamental knowledge of web 
+development using HTML5.Read more about the HTML Certificate...The CSS Developer Certificate proves fundamental knowledge of web development using CSS.Read more about the CSS Certificate...The JavaScript Developer Certificate proves fundamental knowledge of web development using JavaScript and the HTML DOM.Read more about the JavaScript Certificate...The Python Developer Certificate proves fundamental knowledge of Python.Read more about the Python Certificate...The jQuery Developer Certificate proves fundamental knowledge of web development using the jQuery library.Read more about the jQuery Certificate...The SQL Developer Certificate proves fundamental knowledge of web development using SQL.Read more about the SQL Certificate...The PHP Developer Certificate proves fundamental knowledge of web development using PHP and MySQL.Read more about the PHP Certificate...The Bootstrap Developer Certificate proves fundamental knowledge of web development using Bootstrap.Read more about the Bootstrap Certificate...The XML Developer Certificate proves fundamental knowledge of web development using XML, XML DOM and XSLT.Read more about the XML Certificate...Life-long learning are the keywords to your future success.Do you want a career with a future? You should add regular updates to your skills and knowledge. Unless, you have already decided that your current skills and job are good enough for your future.Knowledge is power, especially in the current job market. Documentation of your skills enables you to move upwards in your organization.Getting a certificate proves your commitment to upgrade your skills, gives you the credibility needed for more responsibilities, larger projects, and a higher salary.In addition, documented knowledge is often the key factor when hiring new personnel. Your certificate might advance your career or help you to start a new one.Also have in mind that employees with certifications increase their company's chances of retaining old and getting new customers. You will do your company a favor getting certified. Expect your company to support you in this.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.This is a paragraph.Click on the "Try it Yourself" button to see how it works.The window to the left is editable - edit the code and click on the "Run" button to view the result in the right window.The "Result Size" returns the width and the height of the result window in pixels (even when you resize the browser window).You can control the size of a window with the bar in between the windows (draggable gutter).The icons are explained in the table below:If you are new to coding, we suggest that you start with HTML, and move on to CSS and JavaScript:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Every Web Developer must have a basic understanding of HTML, CSS, and JavaScript.Responsive Web Design is used in all types of modern web development.ECMAScript 5 (JavaScript 5) is supported in all modern browsers.
+Take a good look at it, especially the new array functions.When you feel comfortable with HTML and CSS, it is time to dig deeper.You should learn how to use Maps, Fonts and Icons in HTML.On the JavaScript side, you should learn how to access the HTML DOM.You should also learn how to use AJAX and JSON for making server requests.Now it is time to look at some Frameworks.On the CSS side you should choose a framework for reponsive web design:
+Bootstrap  /  Material Design  /  W3.CSSOn the JavaScript side you should learn at least one modern framework:
+React.js  /  Angular.js  /  Vue.js
+  /  W3.JSMaybe the popularity of jQuery has passed the top, but it is still the most used JavaScript framework.Chart created by GitHub user Kamranahmedse:
+https://github.com/kamranahmedseChart created by GitHub user Kamranahmedse:
+https://github.com/kamranahmedse
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XML stands for eXtensible Markup Language.XML was designed to store and transport data.XML was designed to be both human- and machine-readable.
+Display the XML File »
+Display the XML File as a Note »
+
+Display the XML File »
+Display with XSLT »
+XML plays an important role in many different IT systems.XML is often used for distributing data over the Internet.It is important (for all types of software developers!) to have a good understanding of XML.This tutorial will give you a solid understanding of XML:This tutorial will also dig deep into the following important XML standards:We recommend reading this tutorial, in the sequence listed in the left menu.Examples are better than 1000 words. Examples are often easier to understand 
+than text explanations.This tutorial supplements all explanations with clarifying "Try it Yourself" examples.If you try all the examples, you will learn a lot about XML in a very short time!Test your XML skills at W3Schools!The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.AJAX is a developer's dream, because you can:In every chapter, you can edit the examples online, and click on a button to 
+view the result. 
+Try it Yourself »
+The HTML page contains a <div> section and a <button>.The <div> 
+section is used to display information from a server.The <button> calls a function (if it is clicked).The function requests data from a web 
+server and displays it:AJAX = Asynchronous JavaScript And
+XML.AJAX is not a programming language.AJAX just uses a combination of:AJAX is a misleading name. AJAX applications might use XML to transport data,
+but it is equally common to transport data as plain text or JSON text.AJAX allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes.
+This means that it is possible to update parts of a web page, without reloading the whole page.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The DOM defines a standard for accessing and manipulating documents:"The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the 
+content, structure, and style of a document."The HTML DOM defines a standard way for accessing and manipulating HTML documents. 
+It presents an HTML document as a tree-structure.The XML DOM defines a standard way for accessing and manipulating XML documents. 
+It presents an XML document as a tree-structure.Understanding the DOM is a must for anyone working with HTML or XML.
+All 
+HTML elements can be accessed through the HTML DOM.This example changes the value of an HTML element with id="demo":This example changes the value of the first <h1> element in an HTML document:Note: Even if the HTML document contains 
+only ONE <h1> element you still have to specify the array index [0], 
+because the getElementsByTagName() method always returns an array. 
+You can learn a lot more about the HTML DOM in our 
+JavaScript tutorial.
+All XML elements can be accessed through the XML DOM.The XML DOM is:In other words: The XML DOM is a standard for how to get, change, add, or delete XML elements.This code retrieves the text value of the first <title> element in an 
+XML document:The XML file used in the examples below is books.xml.This example reads "books.xml" into xmlDoc and retrieves the text value of the first <title> element in 
+books.xml:This example loads a text string into an XML DOM object, and  
+extracts the info from it with JavaScript:The DOM models XML as a set of node objects. The nodes can be accessed with 
+JavaScript or other programming languages. In this tutorial we use JavaScript.The programming interface to the DOM is defined by a set standard properties 
+and methods.Properties are often referred to as something that is (i.e. nodename 
+is "book").Methods are often referred to as something that is done (i.e. delete 
+"book").These are some typical DOM properties:Note: In the list above, x is a node object.Note: In the list above, x is a node object.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.A DTD is a Document Type Definition.A DTD defines the structure and the legal elements and attributes of an XML document.With a DTD, independent groups of people can agree on a standard DTD for interchanging data.An application can use a DTD to verify that XML data is valid.If the DTD is declared inside the XML file, it must be wrapped inside the <!DOCTYPE> definition:In the XML file, select "view source" to view the DTD.The DTD above is interpreted like this:If the DTD is declared in an external file, the <!DOCTYPE> definition must 
+contain a reference to the DTD file:And here is the file "note.dtd", which contains the DTD:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.An XML Schema describes the structure of an XML document.The XML Schema language is also referred to as XML Schema Definition (XSD).The purpose of an XML Schema is to define the legal building blocks of an XML
+document:In the XML world, hundreds of standardized XML formats are in daily use. Many of these XML standards are defined by XML Schemas.XML Schema is an XML-based (and more powerful) alternative to DTD.One of the greatest strength of XML Schemas is the support for data types.Another great strength about XML Schemas is that they are written in XML.XML Schemas are extensible, because they are written in XML.With an extensible Schema definition you can:When sending data from a sender to a receiver, it is essential that both parts
+have the same "expectations" about the content.With XML Schemas, the sender can describe the data in a way that the receiver
+will understand.A date like: "03-11-2004" will, in some countries, be interpreted as 3.November
+and in other countries as 11.March.However, an XML element with a data type
+like this:<date type="date">2004-03-11</date>ensures a mutual understanding of the content, because the XML data type "date"
+requires the format "YYYY-MM-DD".A well-formed XML document is a document that conforms to the XML syntax
+rules, like:Even if documents are well-formed they can still contain errors, and those errors can have serious consequences.Think of the following situation: you order 5 gross of laser printers, instead of 5 laser
+printers. With XML Schemas, most of these errors can be caught by your
+validating software.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XSL (eXtensible Stylesheet Language) is a styling language for XML.XSLT stands for XSL Transformations.This tutorial will teach you how to use XSLT to transform XML documents into other formats 
+(like transforming XML into HTML).With our online editor, you can edit XML and XSLT code, and click on a button to view the result.Click on the "Try it Yourself" button to see how it works.Before you continue you should have a basic understanding of the following:If you want to study these subjects first, find the tutorials on our
+Home page.XSLT ElementsDescription of all the XSLT elements from the W3C Recommendation, and information about browser support.XSLT, XPath, and XQuery FunctionsXSLT 2.0, XPath 2.0, and XQuery 1.0, share the same functions library. There are over 100 built-in functions.
+There are functions for string values, numeric values, date and time comparison, node and QName manipulation, 
+sequence manipulation, and more.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XPath is a major element in the XSLT standard.XPath can be used to navigate through elements and attributes in an XML document.XPath uses path expressions to select nodes or node-sets in an XML document.These path expressions look very much like the path expressions you use with  
+traditional computer file systems:XPath includes over 200 built-in functions.There are functions for string values, numeric values, booleans, date and time comparison, 
+node manipulation, sequence manipulation, and much more.Today XPath expressions can also be used in JavaScript, Java, XML Schema, PHP, Python, 
+C and C++, and lots of other languages.XPath is a major element in the XSLT standard.With XPath knowledge you will be able to take great advantage of your XSLT 
+knowledge.XPath 1.0 became a W3C Recommendation on November 16, 1999.XPath 2.0 became a W3C Recommendation on January 23, 2007.XPath 3.0 became a W3C Recommendation on April 8, 2014.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.XQuery is to XML what SQL is to databases.XQuery is designed to query XML data.XQuery is a language for finding and extracting elements and attributes from XML 
+documents.Here is an example of what XQuery could solve:"Select all CD records with a price less than $10 from the CD collection 
+stored in cd_catalog.xml"XQuery 1.0 and XPath 2.0 share the same data model and support the same functions 
+and operators. If you have already studied XPath you will have no problems with 
+understanding XQuery.XQuery can be used to:XQuery is compatible with several W3C standards, such as XML, Namespaces, 
+XSLT, XPath, and XML Schema.XQuery 1.0 became a W3C Recommendation in 2007.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.HTML has the ability to let events trigger actions in a browser, like starting a JavaScript when a user clicks on an element.To learn more about programming events, please visit our JavaScript tutorial.Below are the global event attributes that can be added to HTML elements to define event actions.Events triggered for the window object (applies to the <body> tag):Events triggered by actions inside a HTML form (applies to almost all HTML elements, but is most 
+used in form elements):Events triggered by medias like videos, images and audio (applies to all HTML elements, but is most common in media elements, 
+like <audio>, <embed>, <img>, <object>, and <video>).Tip: Look at our HTML Audio and Video DOM Reference 
+for more information.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Colors are displayed combining RED, GREEN, and BLUE light.With CSS, colors can be set by using color names:With CSS, colors can be specified in different ways:RGB color values are supported in all browsers.An RGB color value is specified with: rgb(
+RED ,
+GREEN ,
+BLUE ).Each parameter defines the intensity of the color as an integer between 0 and 255.For example, rgb(0,0,255) is rendered as blue, 
+because the blue parameter is set to its highest value (255) and the others are set to 0.Shades of gray are often defined using equal values for all the 3 light sources:Hexadecimal color values are also supported in all browsers.A hexadecimal color is specified with:
+#RRGGBB.RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and 
+FF specifying the intensity of the color.For example, #0000FF is displayed as blue, because the blue component is set to its highest value (FF) and the others are set to 
+00.Shades of gray are often defined using equal values for all the 3 light sources:You can use upper case or lower case letters to specify hexadecimal values.
+Lower case are easier to write. Upper case are easier to read.CSS supports 140 standard color names.In the next chapter you will find a complete alphabetical list of color names 
+with hexadecimal values:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The HTML5 <canvas> tag is used to draw graphics, on the fly, via scripting 
+(usually JavaScript).However, the <canvas> element has no drawing abilities of its own (it is only 
+a container for graphics) - you must use a script to actually draw the graphics.The getContext() method returns an object that provides methods and 
+properties for drawing on the canvas.This reference will cover the properties and methods of the getContext("2d") 
+object, which can be used to draw text, lines, boxes, circles, and more - on the 
+canvas.The numbers in the table specify the first browser version that fully supports the element.Internet Explorer 9, Firefox, Opera, Chrome, and Safari support <canvas> and 
+its properties and methods.Note: Internet Explorer 8 and earlier versions, do not support the 
+<canvas> element.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.To display an HTML page correctly, the browser must know what character-set (encoding) to use:For HTML5, the default character encoding is UTF-8.This has not always been the case. The character encoding for the early web was ASCII.Later, from HTML 2.0 to HTML 4.01, ISO-8859-1 was 
+considered the standard.With XML and HTML5, UTF-8 finally arrived and solved a lot of character encoding problems.Computer data is stored as binary codes (01000101) in the electronics.To standardize the storing of text, the American Standard Code for Information 
+Interchange (ASCII) was created. It defined a unique binary number for 
+each storable character to support the numbers from 0-9, the upper and lower case alphabet (a-z, A-Z), and special 
+characters like ! $ + - ( ) @ < > , .Since ASCII used 7 bits for the character, it could only represent 128 different characters.The biggest weakness with ASCII, was that it excluded non English letters.ASCII is still in use today, especially in large mainframe computer systems.For a closer look, please study our Complete ASCII 
+Reference.Windows-1252 was the default character-set in Windows, up to Windows 95.It is an extension to ASCII, with added international characters.It 
+uses a full byte (8-bits) to represent 256 different characters. Since Windows-1252 has been the default in Windows, it is supported by all browsers.For a closer look, please study: The Complete Windows-1252 Reference.The default character-set in HTML 4 is ISO-8859-1.ISO-8859-1 is an extension to ASCII, with added international characters.In HTML 4, a character-set different from ISO-8859-1 can be specified in the <meta> tag:All HTML 4 processors also support UTF-8:When a browser detects ISO-8859-1 it normally defaults to Windows-1252,
+because Windows-1252 has 32 more international characters.For a closer look, please study: The Complete ISO-8859-1 ReferenceThe default character-set for HTML5 is UTF-8.A character-set different from UTF-8 can be specified in the <meta> tag:The Unicode Consortium developed the UTF-8 and UTF-16 standards, because the ISO-8859 character-sets are 
+limited, and not compatible a multilingual environment.The Unicode Standard covers (almost) all the characters, punctuations, and symbols in the world.All HTML5 and XML processors support UTF-8, UTF-16, Windows-1252, and ISO-8859.For a closer look, please study: The Complete Unicode Reference.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Create a Google Map:The Map() constructor creates a new map inside a specified HTML element (typically a <div> element).
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The table below lists all CSS properties and how each property is supported in the different browsers:The number to the right of the browser icon indicates in which browser version the property was first supported.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.In CSS, selectors are patterns used to select the element(s) you want to style.Use our CSS Selector Tester to demonstrate the different selectors.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Complete list of all Bootstrap classes with description and examples:Tip: To see the full list of all Bootstrap 4 classes, go to our All Bootstrap 4 CSS Classes Reference.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Complete list of all Bootstrap 4 CSS classes with description and examples:Tip: To see the full list of all Bootstrap 3 classes, go to our All Bootstrap 3 CSS Classes Reference.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The colors above can also be used as hover classes:The text classes above can also be used as hover classes:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Show icons from:  Font Awesome 5  Font Awesome 4  Bootstrap  Google
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The string functions are used to manipulate and get information about 
+strings.Sass strings are 1-based. The first character in a string is at index 1, not 
+0.The following table lists all string functions in Sass:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.This section contains a complete JavaScript reference documentation.The references describe the properties and methods of all JavaScript objects, along with examples.The references describe the properties and methods of each object, along with examples.The references describe the properties and methods of each HTML object, along with examples.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.This section contains a complete JavaScript reference documentation.The references describe the properties and methods of all JavaScript objects, along with examples.The references describe the properties and methods of each object, along with examples.The references describe the properties and methods of each HTML object, along with examples.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+This section contains a complete jQuery reference documentation.The jQuery reference contains a list of all jQuery selectors, methods, properties and events, along with examples.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.AngularJS modifies the default behavior of some HTML elements.Filters are explained in Angular Filters.Validation is explained in Angular Validation.The Global API is explained in Angular API.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.This section contains a Python reference documentation.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Java has a set of keywords that are reserved words that cannot be used as 
+variables, methods, classes, or any other identifiers:Note: true, false, and null are not keywords, but they are literals and reserved words that cannot be used as identifiers.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.This SQL keywords reference contains the reserved words in SQL.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+This section contains a complete PHP reference documentation.The PHP reference contains different categories of all PHP functions and constants, along with examples.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+This section contains a complete PHP reference documentation.The PHP reference contains different categories of all PHP functions and constants, along with examples.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The ASP Response object is used to send output to the user from the server.
+Write text with ASP
+How to write text with ASP.
+
+Format text with HTML tags in ASP
+How to combine text and HTML tags with ASP.
+
+Redirect the user to a different URL
+How to redirect the user to a different URL.
+
+Show a random link
+How to create a random link.
+Controlling the buffer
+How to control the buffer.
+
+Clear the buffer
+How to clear the buffer.
+
+End a script in the middle of processing and return the result
+How to end a script in the middle of processing.
+
+Set how many minutes a page will be cached in a browser before it expires
+How to specify how many minutes a page will be cached
+in a browser before it expires.
+
+Set a date/time when a page cached in a browser will expire
+How to specify a date/time a page cached in a browser
+will expire.
+
+Check if the user is still connected to the server
+How to check if a user is disconnected from the server.
+
+Set the type of content
+How to specify the type of content.
+
+Set the name of the character set
+How to specify the name of the character set.
+The ASP Response object is used to send output to the user from the server. Its
+collections, properties, and methods are described below:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The DOM presents a document as a hierarchy of node objects.The examples below use the XML file books.xml. Display nodeName and nodeType of all elementsDisplay nodeName and nodeValue of all elementsThe following table lists the different W3C node types, and which node types they 
+may have as children:The following table lists what the nodeName and the nodeValue properties will return for each node type:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.With the XMLHttpRequest object you can update parts of a web 
+page, without reloading the whole page.A 
+simple XMLHttpRequest example
+Create a simple XMLHttpRequest, and retrieve data from a TXT file.
+Retrieve header information with getAllResponseHeaders()
+Retrieve header information of a resource (file).
+Retrieve specific header information with getResponseHeader()
+Retrieve specific header information of a resource (file).Retrieve the content of an ASP file
+How a web page can communicate with a web server while a user type characters in an input field.Retrieve content from a database
+How a web page can fetch information from a database with the XMLHttpRequest object.Retrieve the content of an XML file
+Create an XMLHttpRequest to retrieve data from an XML file and display the data in an HTML table.The XMLHttpRequest object is used to exchange data with a server behind the scenes.The XMLHttpRequest object is the developers dream, because you can:
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The XSLT elements from the W3C Recommendation (XSLT Version 1.0).The links in the "Element" column point to attributes and more
+useful information about each specific element.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Enables the author to extend the XML document with attributes not specified 
+by the schemaLook at XSD Restrictions!
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.To display an HTML page correctly, the browser must know what character-set (encoding) to use:For HTML5, the default character encoding is UTF-8.This has not always been the case. The character encoding for the early web was ASCII.Later, from HTML 2.0 to HTML 4.01, ISO-8859-1 was 
+considered the standard.With XML and HTML5, UTF-8 finally arrived and solved a lot of character encoding problems.Computer data is stored as binary codes (01000101) in the electronics.To standardize the storing of text, the American Standard Code for Information 
+Interchange (ASCII) was created. It defined a unique binary number for 
+each storable character to support the numbers from 0-9, the upper and lower case alphabet (a-z, A-Z), and special 
+characters like ! $ + - ( ) @ < > , .Since ASCII used 7 bits for the character, it could only represent 128 different characters.The biggest weakness with ASCII, was that it excluded non English letters.ASCII is still in use today, especially in large mainframe computer systems.For a closer look, please study our Complete ASCII 
+Reference.Windows-1252 was the default character-set in Windows, up to Windows 95.It is an extension to ASCII, with added international characters.It 
+uses a full byte (8-bits) to represent 256 different characters. Since Windows-1252 has been the default in Windows, it is supported by all browsers.For a closer look, please study: The Complete Windows-1252 Reference.The default character-set in HTML 4 is ISO-8859-1.ISO-8859-1 is an extension to ASCII, with added international characters.In HTML 4, a character-set different from ISO-8859-1 can be specified in the <meta> tag:All HTML 4 processors also support UTF-8:When a browser detects ISO-8859-1 it normally defaults to Windows-1252,
+because Windows-1252 has 32 more international characters.For a closer look, please study: The Complete ISO-8859-1 ReferenceThe default character-set for HTML5 is UTF-8.A character-set different from UTF-8 can be specified in the <meta> tag:The Unicode Consortium developed the UTF-8 and UTF-16 standards, because the ISO-8859 character-sets are 
+limited, and not compatible a multilingual environment.The Unicode Standard covers (almost) all the characters, punctuations, and symbols in the world.All HTML5 and XML processors support UTF-8, UTF-16, Windows-1252, and ISO-8859.For a closer look, please study: The Complete Unicode Reference.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.ASCII was the first character set (encoding standard) used 
+between computers on the Internet.Both ISO-8859-1 (default in HTML 4.01) and UTF-8 (default in 
+HTML5), are built on ASCII.ASCII stands for the "American Standard Code for Information Interchange".It was designed in the early 60's, as a standard character set for computers 
+and electronic devices.ASCII is a 7-bit character set containing 128 characters.It contains the numbers from 0-9, the upper and lower case English letters 
+from A to Z, and some special characters.The character sets used in modern computers, in HTML, and on the Internet, 
+are all based on ASCII.The following tables list the 128 ASCII characters and their equivalent 
+number.The ASCII control characters (range 00-31, plus 127) were designed to control 
+hardware devices.Control characters (except horizontal tab, line feed, and carriage return) 
+have nothing to do inside an HTML document.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Windows-1252 was the first default character set in Microsoft Windows.It was the most popular character set in Windows from 1985 to 1990.Historically, the term "ANSI Code Pages" was used in Windows to refer to non-DOS character sets.The intention was that these character sets would be ANSI standards like ISO-8859-1.Even though Windows-1252 is almost identical to ISO-8859-1, it has never been an ANSI 
+or ISO standard.The first part of Windows-1252 (entity numbers from 0-127) is the original ASCII 
+character-set. It contains numbers, upper and lowercase English letters, and 
+some special characters.For a closer look, please study our Complete 
+ASCII Reference.The control characters (range 00-31, plus 127) were designed to control 
+hardware devices.Control characters (except horizontal tab, line feed, and carriage return) 
+have nothing to do inside an HTML document.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.Windows-1252 was the first default character set in Microsoft Windows.It was the most popular character set in Windows from 1985 to 1990.Historically, the term "ANSI Code Pages" was used in Windows to refer to non-DOS character sets.The intention was that these character sets would be ANSI standards like ISO-8859-1.Even though Windows-1252 is almost identical to ISO-8859-1, it has never been an ANSI 
+or ISO standard.The first part of Windows-1252 (entity numbers from 0-127) is the original ASCII 
+character-set. It contains numbers, upper and lowercase English letters, and 
+some special characters.For a closer look, please study our Complete 
+ASCII Reference.The control characters (range 00-31, plus 127) were designed to control 
+hardware devices.Control characters (except horizontal tab, line feed, and carriage return) 
+have nothing to do inside an HTML document.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.ISO-8859-1 was the default character in HTML 4.01.ISO (The International Standards Organization) defines the standard character 
+sets for different alphabets/languages.The different variants of ISO-8859 are listed at the bottom of this page.The first part of ISO-8859-1 (entity numbers from 0-127) is the original 
+ASCII character-set. It contains numbers, upper and lowercase English letters, 
+and some special characters.For a closer look, please study our Complete 
+ASCII Reference.ISO-8859-1 is very similar to Windows-1252.In ISO-8859-1, the characters from 128 to 159 are not defined. 
+ In Windows-1252, the characters from 128 to 159 are used for some useful symbols.For a closer look, please study our Complete ANSI 
+(Windows-1252) Reference.Since many web sites declare ISO-8859-1 and use the values from 128 to 159 as if they 
+were using Windows-1252, most browsers will display these characters from the Windows-1252 character set instead of nothing.The next part of ISO-8859-1 (codes from 160-191) contains commonly used 
+special characters.The higher part of ISO-8859-1 (codes from 192-255, except 215 and 247) 
+contains characters used in Western European countries.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.HTML symbols like mathematical operators, arrows, technical symbols and shapes, 
+are not present on a normal keyboard.To add these symbols to an HTML page, you can use the HTML entity name.If no entity name exists, you can use the entity number.If the character does not have an entity name, you can use a decimal (or hexadecimal) reference.If you use an HTML entity name or a hexadecimal number, the character will always display 
+correctly.This is independent of what character set (encoding) your page 
+uses!Full Math RefrenceFull Greek ReferenceFull Currency ReferenceFull Arrows ReferenceFull Symbols Reference
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
+The Unicode Consortium develops the Unicode Standard.
+Their goal is to replace the existing character sets with its standard Unicode 
+Transformation Format (UTF).
+The Unicode Standard has become a success and is implemented in 
+HTML, XML, Java, JavaScript, E-mail, ASP, PHP, etc. The Unicode standard is also 
+supported in many operating systems and all modern browsers.
+The Unicode Consortium cooperates with the leading standards development 
+organizations, like ISO, W3C, and ECMA.
+Unicode can be implemented by different character sets. The most commonly used 
+encodings are UTF-8 and UTF-16:
+Tip: 
+The first 128 characters of Unicode (which correspond one-to-one with ASCII) are 
+encoded using a single octet with the same binary value as ASCII, making valid 
+ASCII text valid UTF-8-encoded Unicode as well.HTML 4 supports UTF-8. HTML 5 supports 
+both UTF-8 and UTF-16!Because the character sets in ISO-8859 were 
+limited in size, and not compatible in multilingual environments, the 
+Unicode Consortium developed the Unicode Standard.
+The Unicode Standard covers (almost) all the characters, punctuations, and symbols in the 
+world.
+Unicode enables processing, storage, and 
+transport of text independent of platform and language.The default character encoding in HTML-5 is UTF-8.If an HTML5 web page uses a different character set than UTF-8, it should be 
+specified in the <meta> tag like:Unicode is a character set. UTF-8 is encoding.Unicode is a list of characters with unique decimal numbers (code points). A = 
+65, B 
+= 66, C = 67, ....This list of decimal numbers represent the string "hello": 104 101 108 108 111Encoding is how these numbers are translated into binary numbers to be stored 
+in a computer:UTF-8 encoding will store "hello" like this (binary): 01101000 01100101 01101100 
+01101100  01101111Encoding translates numbers into binary. Character 
+sets translates characters to numbers.Below is a list of some of the UTF-8 character codes supported by HTML5: 
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your HTML skills with W3Schools' Exercises.We have gathered a variety of HTML exercises (with answers) for each HTML Chapter.Try to solve an exercise by editing some code. Get a "hint" if you're stuck, or show the answer to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start HTML Exercises ❯If you don't know HTML, we suggest that you read our HTML Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your CSS skills with W3Schools' Exercises.We have gathered a variety of CSS exercises (with answers) for each CSS Chapter.Try to solve an exercise by editing some code. Get a "hint" if you're stuck, or show the answer to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start CSS Exercises ❯If you don't know CSS, we suggest that you read our CSS Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your JavaScript skills with W3Schools' Exercises.We have gathered a variety of JavaScript exercises (with answers) for each JavaScript Chapter.Try to solve an exercise by editing some code, or show the answer to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start JavaScript Exercises ❯If you don't know JavaScript, we suggest that you read our JavaScript Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your SQL skills with W3Schools' Exercises.We have gathered a variety of SQL exercises (with answers) for each SQL Chapter.Try to solve an exercise by filling in the missing parts of a code. If your stuck, hit the "Show Answer" button to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start SQL Exercises ❯If you don't know SQL, we suggest that you read our SQL Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your PHP skills with W3Schools' Exercises.We have gathered a variety of PHP exercises (with answers) for each PHP Chapter.Try to solve an exercise by filling in the missing parts of a code. If your stuck, hit the "Show Answer" button to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start PHP Exercises ❯If you don't know PHP, we suggest that you read our PHP Tutorial from scratch.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your Python skills with W3Schools' Exercises.We have gathered a variety of Python exercises (with answers) for each Python Chapter.Try to solve an exercise by filling in the missing parts of a code. If your stuck, hit the "Show Answer" button to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start Python Exercises ❯If you don't know Python, we suggest that you read our Python Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your jQuery skills with W3Schools' Exercises.We have gathered a variety of jQuery exercises (with answers) for each jQuery Chapter.Try to solve an exercise by filling in the missing parts of a code. If your stuck, hit the "Show Answer" button to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start jQuery Exercises ❯If you don't know jQuery, we suggest that you read our jQuery Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your Bootstrap 3 skills with W3Schools' Exercises.We have gathered a variety of Bootstrap 3 exercises (with answers) for each Bootstrap 3 Chapter.Try to solve an exercise by filling in the missing parts of a code. If your stuck, hit the "Show Answer" button to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start Bootstrap 3 Exercises ❯If you don't know Bootstrap 3, we suggest that you read our Bootstrap 3 Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your Java skills with W3Schools' Exercises.We have gathered a variety of Java exercises (with answers) for each Java Chapter.Try to solve an exercise by editing some code, or show the answer to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start Java Exercises ❯If you don't know Java, we suggest that you read our Java Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your C++ skills with W3Schools' Exercises.We have gathered a variety of C++ exercises (with answers) for each C++ Chapter.Try to solve an exercise by editing some code, or show the answer to see what you've done wrong.You will get 1 point for
+each correct answer. Your score and total score will always be displayed.Good luck!Start C++ Exercises ❯If you don't know C++, we suggest that you read our C++ Tutorial from scratch.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your HTML skills with W3Schools' Quiz.The test contains 40 questions and there is no time
+limit. The test is not official, it's just a nice way to see how much you know,
+or don't know, about HTML.You will get 1 point for
+each correct answer. At the end of the Quiz, your total score will be displayed.
+Maximum score is 40 points.Good luck!Start the HTML Quiz ❯If you don't know HTML, we suggest that you read our HTML Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your CSS skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit. The test is not official, it's just a nice way to see how much you know, or don't know, about CSS.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the CSS Quiz ❯If you don't know CSS, we suggest that you read our CSS Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your JavaScript skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about JavaScript.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the JavaScript Quiz ❯If you don't know JavaScript, we suggest that you read our JavaScript Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your SQL skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about SQL.You will get 1 point for each correct answer. At the end of the Quiz, your total score will be displayed. Maximum score is 25 points.Good luck!Start the SQL Quiz ❯If you don't know SQL, we suggest that you read our SQL Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your PHP skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about 
+PHP.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the PHP Quiz ❯If you don't know PHP, we suggest that you read our PHP Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your Python skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about 
+Python.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the Python Quiz ❯If you don't know Python, we suggest that you read our Python Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your jQuery skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about 
+the jQuery library.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the jQuery Quiz ❯If you don't know jQuery, we suggest that you read our jQuery Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your Bootstrap skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about Bootstrap.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the Bootstrap Quiz ❯If you don't know Bootstrap, we suggest that you read our Bootstrap Tutorial from scratch.The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.You can test your XML skills with W3Schools' Quiz.The test contains 25 questions and there is no time limit.The test is not official, it's just a nice way to see how much you know, or don't know, about XML.You will get 1 point for each correct answer. At the end of the Quiz,
+your total score will be displayed. Maximum score is 25 points.Good luck!Start the XML Quiz ❯The perfect solution for professionals who need to balance work, family, and career building.More than 25 000 certificates already issued!Get Your Certificate »The HTML Certificate documents your knowledge of HTML.The CSS Certificate documents your knowledge of advanced CSS.The JavaScript Certificate documents your knowledge of JavaScript and HTML DOM.The Python Certificate documents your knowledge of Python.The jQuery Certificate documents your knowledge of jQuery.The SQL Certificate documents your knowledge of SQL.The PHP Certificate documents your knowledge of PHP and MySQL.The XML Certificate documents your knowledge of XML, XML DOM and XSLT.The Bootstrap Certificate documents your knowledge of the Bootstrap framework.
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The HTML Certification requires skills in HTML.The HTML Developer Certificate proves fundamental knowledge of web development using HTML.Price: $95.00Get Certified now!HTML is the foundation of web development.HTML is used to format text, create hyperlinks, tables, lists, forms, display images and more.By mastering HTML you will be able to develop and maintain web pages unlimited to a particular software program's features.The HTML Developer Certificate proves fundamental knowledge of web development using HTML.HTML Developer CertificateBefore you apply for your exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' HTML tutorial. We strongly recommend the following tutorial and quiz:The HTML exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your HTML Developer Certificate. The document will contain your personal data acknowledging your status as a Certified HTML Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The CSS Certification requires skills in CSS.The CSS Developer Certificate proves fundamental knowledge of web development using advanced CSS.Price: $95.00Get Certified now!CSS is used to control the style and layout of multiple web pages all at 
+once.CSS enables you to change the appearance and layout of all the pages in a Web 
+site.The CSS Developer Certificate proves fundamental knowledge of web development using 
+advanced CSS.CSS Developer CertificateBefore you apply for your exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' CSS 
+tutorial. We strongly recommend the following tutorial and quiz:The CSS exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your CSS Developer Certificate. The document will contain your personal data acknowledging your status as a Certified 
+CSS Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The JavaScript Certification requires skills in JavaScript and the HTML DOM.The JavaScript Developer Certificate proves fundamental knowledge of web development using JavaScript and the HTML DOM.Price: $95.00Get Certified now!JavaScript is THE scripting language of the Web.JavaScript is used in millions of Web pages to improve the design, validate forms, detect browsers, create cookies, and much more.JavaScript is the most popular scripting language on the internet, and works in all major browsers, such as 
+Chrome, Internet Explorer, and Firefox.By mastering JavaScript and the HTML DOM  you will be able to develop and maintain more dynamic and interactive web pages.The JavaScript Developer Certificate proves fundamental knowledge of web development using JavaScript and the HTML DOM.JavaScript Developer CertificateAll questions in the exam are based on the content of W3Schools' JavaScript 
+tutorial. We strongly recommend the following tutorial and quiz:The JavaScript exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your JavaScript Developer Certificate. The document will contain your personal data acknowledging your status as a 
+Certified JavaScript Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The SQL Certification requires skills in SQL.The SQL Developer Certificate proves fundamental knowledge of querying a 
+database using SQL.Price: $95.00Get Certified now!SQL is a standard for accessing database systems.
+SQL statements are used to retrieve and update data in a database.By mastering this subject you will be able to retrieve and update data from a database.SQL Developer CertificateBefore you apply for your exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' SQL tutorial. We strongly recommend the following tutorial and quiz:The SQL exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified.Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your SQL Developer Certificate. The document will contain your personal data acknowledging your status as a Certified 
+SQL Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The PHP Certification requires skills in PHP and MySQL.The PHP Developer Certificate proves fundamental knowledge of web development using PHP and MySQL.Price: $95.00Get Certified now!PHP is a powerful server-side scripting language for creating dynamic and interactive websites.
+PHP is the widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.PHP is perfectly suited for Web development and can be embedded directly into the HTML code.SQL (Structured Query Language) is an ANSI (American National Standards Institute) standard for accessing database systems.
+SQL statements are used to retrieve and update data in a database.By mastering these subjects you will be able to develop and maintain dynamic and interactive web pages and also retrieve and update data from a database over the internet.The PHP Developer Certificate proves fundamental knowledge of web development using PHP and MySQL.PHP Developer CertificateBefore you apply for your exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' PHP and SQL tutorials. We strongly recommend the following tutorials and quizzes:The PHP exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified.Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your PHP Developer Certificate. The document will contain your personal data acknowledging your status as a Certified PHP Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The Python Certification requires skills in Python.The Python Developer Certificate proves fundamental knowledge of Python.Price: $95.00Get Certified now!Python is a programming language.Python is used in millions of web applications.By mastering Python, you will be able to develop and maintain server programming.The Python Developer Certificate proves fundamental knowledge of Python.Python Developer CertificateAll questions in the exam are based on the content of W3Schools' Python tutorial. We 
+strongly recommend the following tutorial and quiz:The Python exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your Python Developer Certificate. The document will contain your personal data acknowledging your status as a 
+Certified Python Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The jQuery Certification requires skills in jQuery.The jQuery Developer Certificate proves fundamental knowledge of web development using the jQuery library.Price: $95.00Get Certified now!jQuery is a JavaScript library.The jQuery library contains the following features:jQuery greatly simplifies JavaScript programming.The jQuery Developer Certificate proves fundamental knowledge of web development using the jQuery library.jQuery Developer CertificateBefore you apply for the exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' jQuery 
+tutorial. We strongly recommend the following tutorial and quiz:The jQuery exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your jQuery Developer Certificate. The document will contain your personal data acknowledging your status as a Certified 
+jQuery Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The Bootstrap Certification requires skills in Bootstrap.The Bootstrap Developer Certificate proves fundamental knowledge of web development using Bootstrap.Price: $95.00Get Certified now!Bootstrap is a front-end framework for faster and easier web development.Bootstrap includes HTML and CSS based design templates for typography, forms, 
+buttons, tables, navigation, modals, image carousels and many other, as well as 
+optional JavaScript plugins.Bootstrap also gives you the 
+ability to easily create responsive designs.The Bootstrap Developer Certificate proves fundamental knowledge of web development using Bootstrap.Bootstrap Developer CertificateBefore you apply for your exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' Bootstrap tutorial. We strongly recommend the following tutorial and quiz:The Bootstrap exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your Bootstrap Developer Certificate. The document will contain your personal data acknowledging your status as a Certified Bootstrap Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.The XML Certification requires skills in XML, XML DOM and XSLT.The XML Developer Certificate proves fundamental knowledge of web development using XML, XML DOM and XSLT.Price: $95.00Get Certified now!XML is used in many aspects of web development, often to simplify data storage and data sharing. XML is the most common tool for data-transmissions 
+between all sorts of applications.The XML DOM (XML Document Object Model) defines a standard way for accessing and manipulating XML documents.XSLT is the style sheet language of XML.The XML Developer Certificate proves fundamental knowledge of web development using XML, XML DOM and XSLT.XML Developer CertificateBefore you apply for your exam, you should have a fundamental knowledge of:All questions in the exam are based on the content of W3Schools' XML, XML DOM and XSLT tutorials. We 
+strongly recommend the following tutorials and quizzes:The XML exam will be taken over the Internet, at any time and from any location, but the exam should be supervised by a person selected by the exam candidate.The exam consists of 70 multiple choice or true/false questions. The exam is time-limited to 70 minutes.Candidates must have 75% correct answers to pass the exam and become certified. Candidates who have more than 95% correct answers will get an Excellency Degree notation added to their certificate.Immediately after completing the exam, you will be informed of your score and of your pass/fail status.If you fail, or want to improve your score, you can take the exam one more 
+time. The best result of the two attempts will count.If you achieve certification status, you can download your XML Developer Certificate. The document will contain your personal data acknowledging your status as a Certified XML Developer.If you have any questions regarding the exam, do not hesitate to send an email to:To add full credibility to your Certificate, you should have a supervisor to watch over you when taking the exam.You must pick your own supervisor.The supervisor should be used to see that you do not cheat. There are no other special criteria for the supervisor.The supervisor's name and title will be printed on the certificate, so it could be wise to pick a supervisor who will add credibility to your 
+certificate (e.g. your boss or teacher).To verify that you are W3Schools certified, place the image below on your web site (right-click on the image and select "Save Picture As..."):Then, put a link around the image and link directly to all your W3Schools certificates:<a href="https://certification.w3schools.com/w3certified.asp?email=your_email">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>or:<a href="https://certification.w3schools.com/w3certified.asp?id=your_id">
+<img src="w3certified_logo.png" alt="W3Schools Certified"/></a>
+HTML
+CSS
+JavaScript
+SQL
+Python
+PHP
+jQuery
+Bootstrap
+XMLYour message has been sent to W3Schools.
